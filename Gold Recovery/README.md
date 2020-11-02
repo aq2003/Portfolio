@@ -1,6 +1,6 @@
 # Улучшение процесса обогащения золота
 
-[HTML]() [ipynb]()
+[HTML](https://github.com/aq2003/Portfolio/blob/main/Gold%20Recovery/P9_Portfolio.html) [ipynb](https://github.com/aq2003/Portfolio/blob/main/Gold%20Recovery/P9_Portfolio.ipynb)
 
 ## Постановка задачи
 
